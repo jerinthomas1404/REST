@@ -1,2 +1,2 @@
 # REST
-for REACT-REST repod
+for REACT-REST repository
