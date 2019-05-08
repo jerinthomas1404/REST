@@ -1,2 +1,2 @@
 # REST
-for REACT-REST repository
+FOR REACT-REST repository
